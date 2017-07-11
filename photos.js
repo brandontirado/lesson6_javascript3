@@ -1,7 +1,7 @@
 /*    
     Program Name:  Photo Gallery Application
     Author: Brandon Tirado 
-    Date: 07/10/17  
+    Date: 07/11/17  
     Filename: photos.js
     
  */
